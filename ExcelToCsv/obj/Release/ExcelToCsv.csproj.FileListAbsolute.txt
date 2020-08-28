@@ -1,0 +1,10 @@
+C:\Users\ditto21c\source\repos\ExcelToCsv\ExcelToCsv\bin\Release\ExcelToCsv.exe.config
+C:\Users\ditto21c\source\repos\ExcelToCsv\ExcelToCsv\bin\Release\ExcelToCsv.exe
+C:\Users\ditto21c\source\repos\ExcelToCsv\ExcelToCsv\bin\Release\ExcelToCsv.pdb
+C:\Users\ditto21c\source\repos\ExcelToCsv\ExcelToCsv\obj\Release\ExcelToCsv.csproj.ResolveComReference.cache
+C:\Users\ditto21c\source\repos\ExcelToCsv\ExcelToCsv\obj\Release\ExcelToCsv.Form1.resources
+C:\Users\ditto21c\source\repos\ExcelToCsv\ExcelToCsv\obj\Release\ExcelToCsv.Properties.Resources.resources
+C:\Users\ditto21c\source\repos\ExcelToCsv\ExcelToCsv\obj\Release\ExcelToCsv.csproj.GenerateResource.cache
+C:\Users\ditto21c\source\repos\ExcelToCsv\ExcelToCsv\obj\Release\ExcelToCsv.csproj.CoreCompileInputs.cache
+C:\Users\ditto21c\source\repos\ExcelToCsv\ExcelToCsv\obj\Release\ExcelToCsv.exe
+C:\Users\ditto21c\source\repos\ExcelToCsv\ExcelToCsv\obj\Release\ExcelToCsv.pdb
